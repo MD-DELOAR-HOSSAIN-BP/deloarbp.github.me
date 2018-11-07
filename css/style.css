@@ -31,7 +31,7 @@ border-color: #e8eaec;
 padding:80px;
 
 }
-li{
+li>lis{
 line-height: 3;
 }
 hr{
@@ -51,4 +51,12 @@ margin-top:75px;
 }
 .result{
 margin-bottom: 39px;
+}
+.ul-class{
+    margin-left: 8%;
+
+}
+.training{
+    font-weight: 900;
+    font-size: 22px;
 }
